@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test</title>
+    <title>Document</title>
 </head>
 <body>
-    <h2>Coba aja ini </h2>
-    <a href="page1.php"> page 1</a>
+    ini halaman 1
+    <a href="index.php">back</a>
 </body>
 </html>
